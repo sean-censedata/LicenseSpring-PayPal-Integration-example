@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3fccc811830305851b511f3ab841abbc",
+    "packages": [
+        {
+            "name": "licensespring/paypal",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sean-censedata/LicenseSpring-PayPal-Integration.git",
+                "reference": "7dff03fcd16180acf92c82508a7cf3c0c80752a7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sean-censedata/LicenseSpring-PayPal-Integration/zipball/7dff03fcd16180acf92c82508a7cf3c0c80752a7",
+                "reference": "7dff03fcd16180acf92c82508a7cf3c0c80752a7",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "LicenseSpring\\": "src/LicenseSpring"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Petar Jalušić",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LicenseSpring-PayPal integration with PHP backend.",
+            "keywords": [
+                "integration",
+                "licensespring",
+                "licensing",
+                "paypal"
+            ],
+            "time": "2019-09-11T12:23:59+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

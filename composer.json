@@ -1,0 +1,5 @@
+{
+    "require": {
+        "licensespring/paypal": "^1.0"
+    }
+}
